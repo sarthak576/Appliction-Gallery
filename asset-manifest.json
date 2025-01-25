@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sarthak576/Appliction-Gallery/static/css/main.f855e6bc.css",
+    "main.js": "/sarthak576/Appliction-Gallery/static/js/main.85200ac8.js",
+    "static/js/488.9c92ff38.chunk.js": "/sarthak576/Appliction-Gallery/static/js/488.9c92ff38.chunk.js",
+    "index.html": "/sarthak576/Appliction-Gallery/index.html",
+    "main.f855e6bc.css.map": "/sarthak576/Appliction-Gallery/static/css/main.f855e6bc.css.map",
+    "main.85200ac8.js.map": "/sarthak576/Appliction-Gallery/static/js/main.85200ac8.js.map",
+    "488.9c92ff38.chunk.js.map": "/sarthak576/Appliction-Gallery/static/js/488.9c92ff38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.85200ac8.js"
+  ]
+}
